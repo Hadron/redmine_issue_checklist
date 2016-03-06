@@ -1,0 +1,7 @@
+Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: redmine_issue_checklist
+Source: https://github.com/Undev/redmine_issue_checklist
+
+Files: *
+Copyright: UNKNOWN
+License: UNKNOWN

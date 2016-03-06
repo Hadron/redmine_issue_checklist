@@ -1,0 +1,7 @@
+*rb /usr/share/redmine/plugins/redmine_issue_checklist
+app /usr/share/redmine/plugins/redmine_issue_checklist
+db /usr/share/redmine/plugins/redmine_issue_checklist
+# spec /usr/share/redmine/plugins/redmine_issue_checklist
+lib /usr/share/redmine/plugins/redmine_issue_checklist
+config /usr/share/redmine/plugins/redmine_issue_checklist
+assets/* /usr/share/redmine/public/plugin_assets/redmine_issue_checklist

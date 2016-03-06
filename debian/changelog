@@ -1,0 +1,5 @@
+redmine-plugin-issue-checklist (0.0.1+git20160304-1) unstable; urgency=low
+
+  * Initial release (closes: #).
+
+ -- Klee Dienes <klee@debian.org>  Sat, 05 Mar 2016 15:27:13 -0500
